@@ -34,5 +34,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MasseyHacks II] (http://masseyhacks.ca/) | Windsor, Ontario | 5.21 - 5.22 |
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
 | [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
+| [5GFWD Ultrahack](https://ultrahack.org/5gfwd/) | Oulu, Helsinki | 9.6 - 11.6 |
 | [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 6.26 |
 
